@@ -22,3 +22,9 @@
 +-- vue-template-compiler@2.6.14
 +-- vue-wechat-title@2.0.7
 `-- vue@2.6.14
+
+
+```
+cnpm install
+npm run serve
+```
