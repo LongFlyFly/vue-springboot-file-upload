@@ -4,7 +4,7 @@ file upload demo
 
 file will be saved
 
-文件会被保存在E://images
+文件会被保存在D://images
 
 可以在代码中调整
 
